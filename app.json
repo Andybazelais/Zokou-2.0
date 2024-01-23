@@ -1,6 +1,6 @@
 {
-  "name":"Zokou-2.0",
-  "description":"bot whatsapp développé par djalega++",
+  "name":"Andy.20",
+  "description":"bot whatsapp développé par Andy.B",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
   "repository":"https://github.com/djalega8000/Zokou-2.0",
@@ -28,7 +28,7 @@
     "NOM_BOT" : {
        
       "description":"Un nom pour votre bot",
-      "value":"Zokou-MD",
+      "value":"TBato-MD",
       "required":false
 
     } ,
@@ -78,16 +78,16 @@
     "NOM_OWNER":
     {
     
-    "description": "Votre nom",
+    "description": "Andy.B",
     "required": false,
-    "value": "Djalega++"
+    "value": "Tbato"
   },
     "NUMERO_OWNER":
   {
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "22891733300"
+    "value": "50931312968"
   },
     
 
